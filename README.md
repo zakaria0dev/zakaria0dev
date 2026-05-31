@@ -15,5 +15,26 @@ I am a computer science student currently in training, passionate about software
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zakaria0dev&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zakaria0dev&limit=5&theme=merko&combine_all_yearly_contributions=true)
+### 🔝 Top Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/zakaria0dev/Restaurant-Management-Ordering-Platform-ShowCase">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zakaria0dev&repo=Restaurant-Management-Ordering-Platform-ShowCase&theme=shadow_blue&show_owner=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/zakaria0dev/invoice-management-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zakaria0dev&repo=invoice-management-system&theme=shadow_blue&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/zakaria0dev/Application-web-E-commerce">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zakaria0dev&repo=Application-web-E-commerce&theme=shadow_blue&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+</table>
