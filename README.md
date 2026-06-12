@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a computer science student currently in training, passionate about software and web development. I have experience with multiple programming languages and modern technologies. I am serious, motivated, and adaptable, and I aim to strengthen my technical skills through practical projects and professional experience.<br><br>I also have a solid foundation in both web and software development, with experience in various environments that demonstrate my adaptability. I am comfortable using digital tools and AI technologies to optimize workflows, solve problems, and improve productivity.<br>Full Name: Zakaria El Mofaddal<br><br>Title / Role: Full-Stack Developer<br><br>Location: Casablanca, Morocco<br><br>Email: zakariaelmofaddal06@gmail.com
+I am a computer science student currently in training, passionate about software and web development. I have experience with multiple programming languages and modern technologies. I am serious, motivated, and adaptable, and I aim to strengthen my technical skills through practical projects and professional experience.<br><br>I also have a solid foundation in both web and software development, with experience in various environments that demonstrate my adaptability. I am comfortable using digital tools and AI technologies to optimize workflows, solve problems, and improve productivity.<br>
+<br>Full Name: Zakaria El Mofaddal<br><br>Title / Role: Full-Stack Developer<br><br>Location: Casablanca, Morocco<br><br>Email: zakariaelmofaddal06@gmail.com
 
 
 ## 🌐 Socials:
