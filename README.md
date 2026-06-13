@@ -70,13 +70,7 @@ I specialize in JavaScript ecosystems (React, Node.js) and PHP frameworks (Larav
 
 ---
 
-## Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=zakaria0dev&theme=discord&no-frame=true&no-bg=false&margin-w=8&column=7)
-
-</div>
 
 ---
 
