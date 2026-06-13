@@ -72,14 +72,13 @@ I specialize in JavaScript ecosystems (React, Node.js) and PHP frameworks (Larav
 
 
 
----
+
 
 <div align="center">
-
 *Available for freelance work and open-source collaborations*
 <br/><br/>
-[![Get In Touch](https://img.shields.io/badge/Get%20In%20Touch-0f1f3d?style=for-the-badge&logo=gmail&logoColor=60a5fa&labelColor=0a1628&color=0f1f3d)](mailto:zakariaelmofaddal06@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-0f1f3d?style=for-the-badge&logo=gmail&logoColor=60a5fa&labelColor=0a1628&color=0f1f3d)](mailto:zakariaelmofaddal06@gmail.com)&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-0f1f3d?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0a1628&color=0f1f3d)](https://wa.me/212717005886)
+ 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,50:0d1f3c,100:050d1a&height=100&section=footer)
-
+ 
 </div>
