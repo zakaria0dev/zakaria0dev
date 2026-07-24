@@ -84,7 +84,7 @@ I specialize in JavaScript ecosystems (React, Node.js) and PHP frameworks (Larav
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-0f1f3d?style=for-the-badge&logo=gmail&logoColor=60a5fa&labelColor=0a1628&color=0f1f3d)](mailto:zakariaelmofaddal06@gmail.com)
 &nbsp;&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0f1f3d?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0a1628&color=0f1f3d)](https://wa.me/212717005886)
+
 
 <br/><br/>
 
